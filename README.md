@@ -33,10 +33,10 @@
      - Locate the downloaded file in your Downloads folder.
      - Double-click the installer file to start the installation.
 
-     6. **Install VS Code:**
+     1.6. **Install VS Code:**
         - Agree to the terms and conditions.
         - Follow the installation prompts by clicking "Next" until the installation starts.
-     7. **Complete Installation:**
+     1.7. **Complete Installation:**
         - Let the installation run until it finishes.
         - Exit the installation window.
 
