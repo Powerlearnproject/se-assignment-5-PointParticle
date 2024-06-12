@@ -29,7 +29,7 @@
      - Click on the download button that looks like this: <img src="https://imgur.com/LaAkHTQ.png">.
 
      1.5. **Run the Installer:**
-
+     
      - Locate the downloaded file in your Downloads folder.
      - Double-click the installer file to start the installation.
 
