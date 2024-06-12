@@ -21,11 +21,17 @@
      1.1. **Open Chrome:**
 
      - Open the Chrome browser.
-       1.2. **Search for VS Code:**
+       
+     1.2. **Search for VS Code:**
+     
      - Type "VS Code download" in the search bar.
-       1.3. **Locate the Official Website:**
+     
+     1.3. **Locate the Official Website:**
+     
      - Enter the official Visual Studio Code website (usually `code.visualstudio.com`).
-       1.4. **Download VS Code:**
+     
+     1.4. **Download VS Code:**
+     
      - Click on the download button that looks like this: <img src="https://imgur.com/LaAkHTQ.png">.
 
      1.5. **Run the Installer:**
@@ -36,6 +42,7 @@
      1.6. **Install VS Code:**
         - Agree to the terms and conditions.
         - Follow the installation prompts by clicking "Next" until the installation starts.
+          
      1.7. **Complete Installation:**
         - Let the installation run until it finishes.
         - Exit the installation window.
