@@ -56,10 +56,14 @@
      2.1 **Open Extensions Sidebar:**
 
      - Press `Ctrl+Shift+X` to open the Extensions sidebar.
-       2.2 **Install Prettier:**
+     
+     2.2 **Install Prettier:**
+
      - In the search bar under "EXTENSIONS", type "Prettier".
      - Click the "Install" button to install the Prettier extension.
-       2.3 **Install Other Essential Extensions:**
+     
+     2.3 **Install Other Essential Extensions:**
+
      - Repeat the process for other extensions like "Python" or "Live Server".
 
 3. **User Interface Overview:**
@@ -160,13 +164,20 @@
      9.1. **Open the Debug Sidebar:**
 
      - Click on the Debug icon in the Activity Bar or press `Ctrl+Shift+D`.
-       9.2. **Configure Debugger:**
+     
+     9.2. **Configure Debugger:**
+
      - Click on the gear icon to configure the launch.json file.
      - Select the appropriate environment (e.g., Node.js, Python).
-       9.3. **Set Breakpoints:**
+     
+     9.3. **Set Breakpoints:**
+
      - Click in the gutter next to the line numbers in your code.
-       9.4. **Start Debugging:**
+     
+     9.4. **Start Debugging:**
+
      - Click the green play button in the Debug sidebar or press `F5`.
+
        **Key Features:**
 
      - Breakpoints, Step Over, Step Into, Step Out, Watch variables, Call stack inspection.
